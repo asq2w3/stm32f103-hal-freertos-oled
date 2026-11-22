@@ -1,0 +1,16 @@
+# 编译输出目录
+build/
+cmake-build-*/
+out/
+
+# CLion / VS Code 个人配置
+.idea/
+*.iml
+.vscode/
+
+# 临时文件与日志
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
